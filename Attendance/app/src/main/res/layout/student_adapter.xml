@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:orientation="horizontal">
+
+    <CheckedTextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.8"
+        android:textSize="24dp"
+        android:padding="4dp"
+        android:id="@+id/stuName1">
+
+    </CheckedTextView>
+
+
+</LinearLayout>

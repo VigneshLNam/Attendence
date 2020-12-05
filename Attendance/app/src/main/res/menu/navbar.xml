@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/timeTable"
+        android:title="Time Table">
+    </item>
+    <item
+        android:id="@+id/zoomSchedule"
+        android:title="Schedule Meeting">
+    </item>
+    <item
+        android:id="@+id/zoomScheduled"
+        android:title="Scheduled Meetings">
+    </item>
+    <item
+        android:id="@+id/montReport"
+        android:title="Monthly Report ">
+    </item>
+    <item
+        android:id="@+id/zoomLogout"
+        android:title="Logout">
+    </item>
+</menu>

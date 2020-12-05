@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sbar"
+        android:title="Search"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/addstudent"
+        android:title="Add Student"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/report1"
+        android:title="Report"
+        app:showAsAction="always">
+    </item>
+</menu>
